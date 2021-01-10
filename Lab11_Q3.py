@@ -1,6 +1,6 @@
 """
-Strter code for protein folding
-Author: Nicolas Grisuard, based on a script by Paul Kushner
+protein folding
+Author: Bmcq55 based on a script by Paul Kushner
 """
 
 #Lab 11 Q3: Protein Folding
